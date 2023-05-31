@@ -1,7 +1,8 @@
 # SI_2023_lab2_143137
 Бошко Тарчуговски 143137
 
-2.![image](https://github.com/Boshko2/SI_2023_lab2_143137/assets/46760634/769df8c4-b6fb-4d4f-bba9-a69db67bec84)
+2.![image](https://github.com/Boshko2/SI_2023_lab2_143137/assets/46760634/4fba8e0b-3e61-463e-afa3-89d025bdd6ef)
+
 
 3. Формулата за пресметка на цикломатската комплексност е:
   
